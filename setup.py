@@ -24,7 +24,7 @@ setup(
     package_data={"fourmat": ["assets/*.*", "assets/.*"]},
     install_requires=(
         "click>=8",
-        "black==26.3.1",
+        "black==26.5.1",
         "flake8-bugbear>=24,<25",
         "flake8>=7,<8",
         "isort>=6,<7",
